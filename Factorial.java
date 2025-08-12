@@ -9,7 +9,8 @@ public class Factorial{
   }
   public static void main(String args[]){
   int n=5;
-    System.out.println("Factorial of"+ n +"is"+compute(n));
+    System.out.println("Factorial of a "+ n +"is"+compute(n));
   }
 }
+
 
